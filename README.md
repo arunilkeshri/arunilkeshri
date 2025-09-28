@@ -34,18 +34,23 @@ Hello there! 👋 I'm Arunil Keshri, a B.Tech CSE student from JECRC University 
 
 ### 🚀 Projects that Define Me
 
-- **Project [Justice AI](https://github.com/arunilkeshri/AI-Bail-Recommendation-System)** | **AI-Powered Bail Recommendation System (SIH 2024)** - A comprehensive system blending **NLP, XGBoost, and TensorFlow** for consistent and fair bail recommendations.
-  - Achieved **88% decision consistency** on simulated data, proving the potential for real-world impact.
-  - Engineered for scale with **Django REST, Docker, and Kubernetes**, handling **500+ case records** seamlessly.
+- **[Justice AI – AI-Powered Bail Recommendation System (SIH 2024)](https://github.com/arunilkeshri/AI-Bail-Recommendation-System)**  
+  A comprehensive system blending **NLP, XGBoost, and TensorFlow** for consistent and fair bail recommendations.  
+  - Achieved **88% decision consistency** on simulated data.  
+  - Built with **Django REST, Docker, and Kubernetes**, handling **500+ case records** seamlessly.
 
-- **Project [AutoPark](https://github.com/arunilkeshri/Automatic-Parking-Management-System)** | **Automatic Parking Management** - A smart system using **Python, OpenCV, and OCR** to automate license plate detection.
-  - Streamlined billing and reduced parking traffic delays by **75%**.
+- **[AutoPark – Automatic Parking Management System](https://github.com/arunilkeshri/automatic-parking-management)**  
+  A smart vision-based parking system leveraging **Python, OpenCV, and OCR**.  
+  - Reduced parking delays by **75%** with automated billing and gate control.
 
-- **Project [Crisis Intel](https://github.com/arunilkeshri/Neural-Disaster-Response-Analyzer)** | **Neural Disaster Response Analyzer** - A real-time **LSTM-powered NLP model** to classify disaster-related tweets with **82% accuracy**.
+- **[Crisis Intel – Neural Disaster Response Analyzer](https://github.com/arunilkeshri/Neural-Disaster-Response-Analyzer)**  
+  A real-time **LSTM-based NLP model** to classify disaster-related tweets with **82% accuracy**.
 
-- **Project [Finance AI](https://github.com/arunilkeshri/Stock-Market-Predictor)** | **Stock Market Predictor** - A model built on **Linear Regression** to forecast NSE stock trends with **78% accuracy**, providing actionable insights.
+- **[Finance AI – Stock Market Predictor](https://github.com/arunilkeshri/Stock-Market-Predictor)**  
+  Built using **Linear Regression** to forecast NSE stock trends with **78% accuracy**, delivering actionable analytics.
 
-- **Project [Medi-Genie](https://github.com/arunilkeshri/IoT-Smart-Medicine-Dispenser)** | **IoT Smart Medicine Dispenser (Hackathon ’25)** - An **IoT solution** that ranked **6th out of 100+ teams**, reducing missed medication doses by **60%** and earning a hackathon prize.
+- **[Medi-Genie – IoT Smart Medicine Dispenser (Hackathon ’25)](https://github.com/arunilkeshri/IoT-Based-Smart-Medicine-Dispenser)**  
+  Ranked **6th out of 100+ teams**, reducing missed medication doses by **60%** through automated reminders and dispensing.
 
 ---
 
